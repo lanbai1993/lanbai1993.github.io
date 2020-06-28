@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>adolph</title>
   
-  
+  <subtitle>Just Keep Fighting</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-06-26T01:25:01.761Z</updated>
+  <updated>2020-06-27T14:18:02.807Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://yoursite.com/2020/06/23/java-xue-xi-jin-jie/"/>
     <id>http://yoursite.com/2020/06/23/java-xue-xi-jin-jie/</id>
     <published>2020-06-23T07:30:47.000Z</published>
-    <updated>2020-06-26T01:25:01.761Z</updated>
+    <updated>2020-06-27T14:18:02.807Z</updated>
     
     <summary type="html">
     
@@ -36,8 +36,6 @@
     </summary>
     
     
-    
-      <category term="学习路径" scheme="http://yoursite.com/tags/%E5%AD%A6%E4%B9%A0%E8%B7%AF%E5%BE%84/"/>
     
   </entry>
   
