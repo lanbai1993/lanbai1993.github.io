@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>adolph</title>
+  <title>阿道夫</title>
   
   <subtitle>Just Keep Fighting</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://3dot.top/"/>
   <updated>2020-06-27T14:18:02.807Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://3dot.top/</id>
   
   <author>
-    <name>adolph</name>
+    <name>阿道夫</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>java学习进阶</title>
-    <link href="http://yoursite.com/2020/06/23/java-xue-xi-jin-jie/"/>
-    <id>http://yoursite.com/2020/06/23/java-xue-xi-jin-jie/</id>
+    <link href="http://3dot.top/2020/06/23/java-xue-xi-jin-jie/"/>
+    <id>http://3dot.top/2020/06/23/java-xue-xi-jin-jie/</id>
     <published>2020-06-23T07:30:47.000Z</published>
     <updated>2020-06-27T14:18:02.807Z</updated>
     
