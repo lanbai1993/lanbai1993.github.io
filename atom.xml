@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://3dot.top/"/>
-  <updated>2020-06-27T14:18:02.807Z</updated>
+  <updated>2020-06-29T06:47:43.249Z</updated>
   <id>http://3dot.top/</id>
   
   <author>
@@ -17,11 +17,28 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>spring</title>
+    <link href="http://3dot.top/2020/06/29/spring/spring/"/>
+    <id>http://3dot.top/2020/06/29/spring/spring/</id>
+    <published>2020-06-29T06:46:29.000Z</published>
+    <updated>2020-06-29T06:47:43.249Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+      <category term="spring" scheme="http://3dot.top/categories/spring/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>java学习进阶</title>
     <link href="http://3dot.top/2020/06/23/java-xue-xi-jin-jie/"/>
     <id>http://3dot.top/2020/06/23/java-xue-xi-jin-jie/</id>
     <published>2020-06-23T07:30:47.000Z</published>
-    <updated>2020-06-27T14:18:02.807Z</updated>
+    <updated>2020-06-29T06:56:54.460Z</updated>
     
     <summary type="html">
     
